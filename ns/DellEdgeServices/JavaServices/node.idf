@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared"></value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.io.FileReader</value>
+    <value>java.io.Reader</value>
+    <value>java.util.Properties</value>
+    <value>javax.naming.Context</value>
+    <value>javax.naming.InitialContext</value>
+    <value>javax.jms.Connection</value>
+    <value>javax.jms.ConnectionFactory</value>
+    <value>javax.jms.Destination</value>
+    <value>javax.jms.MessageProducer</value>
+    <value>javax.jms.Queue</value>
+    <value>javax.jms.Session</value>
+    <value>javax.jms.TextMessage</value>
+  </array>
+</Values>
